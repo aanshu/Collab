@@ -1,0 +1,12 @@
+/*This is my Pet's txt file*/
+
+
+Your name: Chanel
+ Why you came to the workshop? To master GIT
+ Is this your first event? No
+ Favorite ice cream flavor? Strawberry
+ What is the name of the person sitting to the right and left of you? Christine
+ Do you want to contribute to open source in the future? Yes
+ GoodBye!!!
+
+
